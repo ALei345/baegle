@@ -1,0 +1,47 @@
+/*div{
+	display: inline-block;
+	background-color:#FFF8DC;
+	position: relative;
+
+}
+img{
+	position: relative;
+	right: 15px;
+	bottom:15px;
+}*/
+.menu{
+	width:20%;
+	background-color:#FFA500 ;
+	height: 100%;
+	position:fixed;
+}
+body{
+	margin: 0%;
+	background-color:#FF8C00; 
+}
+p{
+	margin: 0%;
+	font-size:17px;
+}
+.soc{
+	width: 80%;
+	margin-left: 20%;
+
+}
+img{
+	width: 40%;
+}
+.dft{
+	position: absolute;
+	top: 13%;
+	left:55%;
+
+}
+.rar{
+	width: 100%
+}
+a{
+	color: black;
+	font-size:17px;
+	text-decoration: 
+}
